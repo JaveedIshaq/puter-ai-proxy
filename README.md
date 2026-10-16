@@ -27,8 +27,8 @@ The proxy exposes an Anthropic-compatible `POST /v1/messages` endpoint. Incoming
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd puter
+git clone https://github.com/JaveedIshaq/puter-ai-proxy.git
+cd puter-ai-proxy
 npm install
 ```
 
